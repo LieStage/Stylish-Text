@@ -1,6 +1,7 @@
 {
   "name": "StylishText",
   "description": "Telegram bot helps to get Stylish Text. Create your Fork now.",
+  "stack": "container",
   "keywords": [
     "telegram",
     "best",
